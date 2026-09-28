@@ -2,6 +2,8 @@
 
 **Orthopaedic surgeon · Adult reconstruction & clinical outcomes research**
 
+[LinkedIn](https://www.linkedin.com/in/doctorpranavb/) · [Google Scholar](https://scholar.google.com/citations?user=TIVRJNUAAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0000-5217-7017)
+
 During USMLE preparation, I began building personal software tools to make my own **study behavior, focus patterns, and digital accountability** more measurable.
 
 I use **AI-assisted software development** to turn practical problems into working systems, then test, debug, validate, and refine them through sustained real-world use.
