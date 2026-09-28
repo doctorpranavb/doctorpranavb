@@ -2,7 +2,17 @@
 
 **Orthopaedic surgeon · Adult reconstruction & clinical outcomes research**
 
-[LinkedIn](https://www.linkedin.com/in/doctorpranavb/) · [Google Scholar](https://scholar.google.com/citations?user=TIVRJNUAAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0000-5217-7017)
+<p>
+  <a href="https://www.linkedin.com/in/doctorpranavb/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://scholar.google.com/citations?user=TIVRJNUAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar">
+  </a>
+  <a href="https://orcid.org/0009-0000-5217-7017">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
+  </a>
+</p>
 
 During USMLE preparation, I began building personal software tools to make my own **study behavior, focus patterns, and digital accountability** more measurable.
 
